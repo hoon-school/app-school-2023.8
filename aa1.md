@@ -18,6 +18,7 @@ objectives:
   - "Explain the services 🔑Jael provides to the system."
   - "Enumerate the secrets 🔑Jael tracks."
   - "Explain the services 🕸️Khan provides to the system."
+  - "Explain the services 👅Lick will provide to the system."
 runes:
   - "`/?`"
   - "`!?`"
@@ -31,9 +32,8 @@ readings:
   - "https://developers.urbit.org/guides/core/app-school/9-vanes"
   - "https://developers.urbit.org/reference/arvo/overview"
 homework:
-  - "https://forms.gle/vmoNLmLPrY6EFfs49"
-mirror: "https://github.com/sigilante/curriculum/blob/master/asl-2023.1/asl1.md"
-video: "https://youtu.be/HWyFOzV9XIo"
+  - "https://forms.gle/vMsknyi8YWpyGVhX8"
+video: "https://youtu.be/ZPy8wIc8fZY"
 ---
 
 #   🦦 `aa1`.  Arvo Services.
